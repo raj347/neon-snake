@@ -1,8 +1,8 @@
-# snake-game
+# Neon-Snake
  Browser snake game, showcasing re-frame & clojurescript :)
 
-## Overview
- Link to live game will be here shortly
+## Demo
+ You can play it here https://smnplk.github.io/neon-snake/resources/public/live/index.html
 
 ## Setup
 
